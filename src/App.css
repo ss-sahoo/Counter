@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+.question-section {
+  border: 1px solid #6b6b6b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+}
+.below {
+  display: flex;
+  gap: 15px;
+}
